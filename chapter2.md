@@ -1,13 +1,17 @@
-内容
+# 成绩查询系统
 
-* 完成权限管理，完成管理员权限的登录界面，并显示显示学生的信息
+> 本部分内容为教学做一体项目，通过成绩查询系统来学习最基础的Java Web的内容。
 
-步骤
+## 课程目标
 
-1. 新建类 \*\*domain-&gt;UserLogin\*\*，此类对应于数据库中的userlogin表；
-2. 新建接口 \*\*persistence-&gt;UserLoginMapper\*\*，此接口中实现\*\*getUserLogin\*\*方法；然后新建xml文件\*\*UserLoginMapper.xml\*\*，实现方法\*\*getUserLogin\*\*的SQL实现；
-3. 新建类 \*\*service-&gt;LoginService\*\*，实现\*\*getUserByNameAndPwd\*\*方法，此方法调用\*\*UserLoginMapper\*\*中的\*\*getUserLogin\*\*方法；
-4. 新建类\*\*controller-&gt;LoginController\*\*，调用\*\*LoginService\*\*中的\*\*getUserByNameAndPwd\*\*方法。
+### 能力目标
 
+* 具备创建和配置JavaWeb应用系统的能力
 
+### 知识目标
 
+* 熟悉版本控制
+* 熟悉Git的各种命令，掌握Git的使用
+* 理解分支，熟悉Github的使用
+
+### 教学内容

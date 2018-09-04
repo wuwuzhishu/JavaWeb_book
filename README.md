@@ -1,3 +1,36 @@
-# My Awesome Book
+# 课程说明
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+> * 本文档主要是用于软件技术专业的Java Web课程，分为两部分：基础部分和框架部分。基础部分主要包含JSP、Servlet、JSTL、MVC、Maven等内容，框架部分主要包含Spring、Spring MVC、MyBatis等SSM内容，后期补充Spring Boot知识。
+> * 面向岗位：Java Web服务器端开发
+> * 课程采用项目制教学，通过两个项目来贯通知识点以及技能点，每次课把理论教学和实践教学相结合，由实践引入理论所需的知识点
+> * 由于是理实一体，所以在理论课教学中需要自带笔记本电脑
+
+## 课程目标
+
+### 知识目标
+
+1. 了解JavaEE体系结构；
+2. 掌握Java Web开发环境的搭建和配置；
+    * 开发工具：STS(Spring Tools Suite)
+    * Web服务器：Tomcat
+    * 数据库：MySQL
+3. 理解版本控制，掌握Git的使用；
+4. 理解分层结构，掌握MVC模式的应用；
+5. 掌握JSP/Servlet技术；
+6. 掌握EL表达式以及JSTL标签库的使用。
+
+### 能力目标
+
+1. 具备搭建配置Java Web开发环境并熟练使用集成工具的能力；
+2. 具备利用版本控制进行团队协作开发的能力；
+3. 具备应用MVC模式使用JSP/Servlet技术以及EL或JSTL构建Web应用的能力。
+
+## 课程关联
+
+* 前导课程：《Java程序设计》、《数据库原理及应用》、《MySQL数据库设计实训》、《Java项目实战实训》
+
+* 后续课程：《JSP项目实战实训》、《JavaEE Web开发（2）》、《轻量级JavaEE项目实战实训》
+
+## 课程考核
+
+考核方式：分为平时、实验、过程和期末四部分。平时主要考察考勤以及课堂表现，实验主要考察上机实验动手操作，过程是需要分组完成某个项目，期末采用上机考试的方式。
