@@ -21,7 +21,7 @@ JavaEE平台提供了一个基于组件的方法来加快设计、开发、装�
 #### 1. JDBC（Java Database）数据库连接
 
 JDBC是一组用于执行SQL的Java API ，为访问不同的数据库提供了一种统一的途径，几乎所有的关系型数据库厂商（DBMS）都提供了JDBC的服务或驱动。JDBC对数据库的访问也具有平台无关性。
-![image](/asserts/ch1/1.png)
 <center>
+<img src="asserts/ch1/1.png"/>
 图1 JDBC处理模型
 </center>
